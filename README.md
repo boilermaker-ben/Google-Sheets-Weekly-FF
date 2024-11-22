@@ -4,7 +4,7 @@ A Google Sheets based tool to run a daily or week-long fantasy football competit
 Here's a cool tool that I'd like to community to be able to enjoy during whatever gatherings you have coming up for the Thanksgiving holiday. You can give it a whirl for this weekend's matchups. The projection data won't be available for the next week until sometime on Tuesday prior. I'd recommend drafting up some teams on Tuesday night, Wednesday night, or Thursday before the 1 o'clock kickoff (EST).
 
 
-Make acopy for yourself of The Supersheets Bowl, a daily or weekend fantasy football competition.
+Make a copy for yourself of The Supersheets Bowl, a daily or weekend fantasy football competition.
 
 
 https://docs.google.com/spreadsheets/d/1KS3vZXgg-aBPgk6BkTer5Z4WJwlD4oQloKChaUngb-M/edit?usp=sharing
