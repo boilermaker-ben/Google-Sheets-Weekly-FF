@@ -1,4 +1,4 @@
-# Google-Sheets-Weekly-FF
+# THE SUPERSHEETS BOWL: A Fantasy Football Daily/Weekly Draft & Competition Tool
 A Google Sheets based tool to run a daily or week-long fantasy football competition. Ideal for Thanksgiving games, Christmas, or whatever strikes your fancy. 
 
 Here's a cool tool that I'd like to community to be able to enjoy during whatever gatherings you have coming up for the Thanksgiving holiday. You can give it a whirl for this weekend's matchups. The projection data won't be available for the next week until sometime on Tuesday prior. I'd recommend drafting up some teams on Tuesday night, Wednesday night, or Thursday before the 1 o'clock kickoff (EST).
